@@ -1,7 +1,7 @@
 # All Tests Informatical Pieces
 # 
 # Drive Test: Optical (Cd-DVD-Blu Ray),
-# HDD,
+HDD,
 # SSD,
 # Flash Card,
 # 
