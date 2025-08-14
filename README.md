@@ -15,7 +15,7 @@ AND:
 --------------------------------------------------------------------------------
 
 Ebbe a repóba kerülnek be azok a tesztek, amiket használok.
-Üsszesített lista lesz, reményeim szerint folyamatosan karbantartva a legújabb verziókkal az elérhető szoftverekből,
+Összeszedem, amiket a legtöbbet használok, és reményeim szerint folyamatosan karban lesz tartva a legújabb verziókkal az elérhető szoftverekből,
 általam kiegészítve olyan tesztekkel, miket nem találtam, vagy nem tartom megbízhatónak, esetleg használhatónak!
 
 Mindezt igyekszem rendszer nélkül is használható verzióban elkészíteni,
