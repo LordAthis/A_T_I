@@ -1,15 +1,16 @@
 # All Tests Informatical Pieces
-# 
-# Drive Test: Optical (Cd-DVD-Blu Ray),
-HDD,
-# SSD,
-# Flash Card,
-# 
-# Motherboard,
-# RAM,
-# CPU,
-# GPU,
-# and other Card
+
+Drive Test: Optical (Cd-DVD-Blu Ray),
+- HDD,
+- SSD,
+- Flash Card,
+
+AND:
+- Motherboard,
+- RAM,
+- CPU,
+- GPU,
+- and other Card
 --------------------------------------------------------------------------------
 
 Ebbe a repóba kerülnek be azok a tesztek, amiket használok.
